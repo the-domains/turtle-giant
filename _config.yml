@@ -1,0 +1,28 @@
+name: Turtle Giant
+favicon: null
+layout_spectrum: 0.762843439122662
+typography_spectrum: 0.4105941958259791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8049272845964879
+  lightness: 0.35152600100263953
+  saturation: 0.4895266455132514
+  rhythmicContrast: 0.04602158674970269
+purpose: []
